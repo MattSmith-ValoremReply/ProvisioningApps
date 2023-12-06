@@ -1,0 +1,3 @@
+Entra App Details
+Client Id: 3e840e2d-920e-4e8f-a4ea-db02d18fefbe
+Client Secret: 9a99731d-488b-46b9-ad11-49ce9d5e9af4
