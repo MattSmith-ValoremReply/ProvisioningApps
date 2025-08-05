@@ -1,0 +1,2 @@
+Client Id: fe292772-b9ac-4ec1-a2b5-0fce98dbde7d
+Client Secret: 19f80757-2407-47a2-8355-32ccd9aef397
